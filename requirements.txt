@@ -1,0 +1,8 @@
+SpeechRecognition
+pygame
+gtts
+pydub
+pyttsx3
+vosk  #offline download and use
+TTS 
+groq
